@@ -60,3 +60,8 @@ To ensure the correct value is sent, the order of actions is critical:
 * **Hardware Response:** The ESP32 server receives the `count` argument, triggers the double-beep sequence, and updates the OLED display with the formatted "WhatsApp / Message(s) : X" layout.
 
 ---
+<img width="1200" height="1600" alt="No Action" src="https://github.com/user-attachments/assets/094455c0-194f-46b2-9da5-4fa4dfa80ff4" />
+<img width="1200" height="1600" alt="Notification" src="https://github.com/user-attachments/assets/a4a58ccc-4e48-4480-89d6-def3152d6500" />
+<img width="738" height="1600" alt="Macrodroid" src="https://github.com/user-attachments/assets/9e4d702a-2322-4da6-8a82-e8f5cc715b6d" />
+
+
